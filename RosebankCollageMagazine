@@ -18,3 +18,43 @@ THE MAGAZINE WILL BE PRODUCES WEEKLY AND WILL BE BOTH INFORMATIVE
 AND ENTERTAINING FOR STUDENTS, STAFF, AND THE FACULTY. IT WILL SUPPORT 
 COMMMUNITY ENGAGEMENT AND SHOWCASE THE DIVERSE TALENTS OF THE 
 STUDENT BORDY
+
+The website uses an external CSS file named styles.css for all design and styling purposes. The styling includes: 
+
+Layout & Structure 
+
+Clean, responsive design using CSS grid and flexbox. 
+
+Consistent spacing, margins, and padding for readability. 
+
+Color Scheme 
+
+Background: Black for a bold, modern look. 
+
+Fonts: Colorful text for vibrance and creativity. 
+
+Links & Buttons: Highlighted with hover effects for interactivity. 
+
+Typography 
+
+Clear, legible fonts with hierarchy for headings, subheadings, and body text. 
+
+Large, bold titles to grab attention. 
+
+Contrasting text colors against the dark background for accessibility. 
+
+Navigation 
+
+A styled navigation bar for easy movement between magazine sections. 
+
+Hover and active states to guide users. 
+
+Content Styling 
+
+Articles and posts styled with card layouts for visual appeal. 
+
+Image sections styled with borders, shadows, and responsive resizing. 
+
+Responsive Design 
+
+Mobile-friendly layout that adjusts automatically for phones, tablets, and desktops. 
